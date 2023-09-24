@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Semstre 4\Prog Evn\TP\TP_MySql\MySql_Test\MySqlTP\bin\Debug\MySqlTP.exe.config
+C:\Users\Lenovo\Desktop\Semstre 4\Prog Evn\TP\TP_MySql\MySql_Test\MySqlTP\bin\Debug\MySqlTP.exe
+C:\Users\Lenovo\Desktop\Semstre 4\Prog Evn\TP\TP_MySql\MySql_Test\MySqlTP\bin\Debug\MySqlTP.pdb
+C:\Users\Lenovo\Desktop\Semstre 4\Prog Evn\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Semstre 4\Prog Evn\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.MainForm.resources
+C:\Users\Lenovo\Desktop\Semstre 4\Prog Evn\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Semstre 4\Prog Evn\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.exe
+C:\Users\Lenovo\Desktop\Semstre 4\Prog Evn\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.pdb
+D:\All of Université\S4 Document & videos\PE\TP\TP_MySql\MySql_Test\MySqlTP\bin\Debug\MySqlTP.exe.config
+D:\All of Université\S4 Document & videos\PE\TP\TP_MySql\MySql_Test\MySqlTP\bin\Debug\MySqlTP.exe
+D:\All of Université\S4 Document & videos\PE\TP\TP_MySql\MySql_Test\MySqlTP\bin\Debug\MySqlTP.pdb
+D:\All of Université\S4 Document & videos\PE\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.csprojResolveAssemblyReference.cache
+D:\All of Université\S4 Document & videos\PE\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.MainForm.resources
+D:\All of Université\S4 Document & videos\PE\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.csproj.GenerateResource.Cache
+D:\All of Université\S4 Document & videos\PE\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.exe
+D:\All of Université\S4 Document & videos\PE\TP\TP_MySql\MySql_Test\MySqlTP\obj\Debug\MySqlTP.pdb
